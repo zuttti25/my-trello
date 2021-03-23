@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- ★Boardコンポーネント呼び出し -->
-    <board/>
+    <Board/>
   </div>
 </template>
 
